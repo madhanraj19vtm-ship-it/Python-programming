@@ -1,6 +1,6 @@
 # MODULE 4 - File Handling and CSV Practice
 
-This folder contains three Python lab programs, sample data, and sample outputs.
+This folder contains four Python lab programs, sample data, and sample outputs.
 
 ## Folder Contents
 
@@ -31,6 +31,7 @@ Open a terminal in the MODULE 4 folder and run:
 python lab1_log_file_reader.py
 python lab2_student_data_manager.py
 python lab3_csv_payroll_management.py
+python lab4_json_log_file_analyzer.py
 ```
 
 Python's built-in `csv` module is used, so no external packages are required.
