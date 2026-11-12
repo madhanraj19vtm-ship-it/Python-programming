@@ -1,0 +1,36 @@
+MODULE 4 - LAB 4: JSON-BASED LOG FILE ANALYZER
+
+===== JSON LOG FILE ANALYZER =====
+
+----- ALL LOG RECORDS -----
+Timestamp: 10:00
+Level:     INFO
+Message:   Application started
+-----------------------------------
+Timestamp: 10:05
+Level:     WARNING
+Message:   Low disk space
+-----------------------------------
+Timestamp: 10:10
+Level:     ERROR
+Message:   Database connection failed
+-----------------------------------
+Timestamp: 10:15
+Level:     INFO
+Message:   User logged in
+-----------------------------------
+Timestamp: 10:20
+Level:     ERROR
+Message:   Unable to load profile
+-----------------------------------
+Timestamp: 10:25
+Level:     WARNING
+Message:   High memory usage
+-----------------------------------
+
+----- LOG SUMMARY -----
+Total valid log records: 6
+Total INFO messages: 2
+Total WARNING messages: 2
+Total ERROR messages: 2
+Other/unknown level messages: 0
