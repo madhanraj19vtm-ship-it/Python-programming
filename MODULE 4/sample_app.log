@@ -1,0 +1,5 @@
+2026-11-12 09:00:00 INFO Application started
+2026-11-12 09:02:15 WARNING Disk space is getting low
+2026-11-12 09:03:40 ERROR Database connection failed
+2026-11-12 09:05:10 INFO User login successful
+2026-11-12 09:07:25 ERROR Unable to load user profile
