@@ -1,0 +1,21 @@
+MODULE 2 - MINI PROJECT: STUDENT GRADING AUTOMATION
+
+===== STUDENT GRADING AUTOMATION =====
+Enter student name: Madhanraj
+Enter marks for Python (0-100): 92
+Enter marks for Mathematics (0-100): 88
+Enter marks for English (0-100): 85
+Enter marks for Computer Science (0-100): 95
+Enter marks for Data Structures (0-100): 90
+
+===== STUDENT RESULT =====
+Student Name: Madhanraj
+Python: 92.0
+Mathematics: 88.0
+English: 85.0
+Computer Science: 95.0
+Data Structures: 90.0
+Total Marks: 450.0
+Average: 90.00
+Grade: A+
+Status: Pass
