@@ -1,0 +1,6 @@
+MODULE 1 - LAB 1: BASIC PYTHON PROGRAM
+
+Welcome to Python Programming!
+Name: Madhanraj
+Module: 1 - Python Fundamentals
+Python is simple, readable, and easy to learn.
