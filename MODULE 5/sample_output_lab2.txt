@@ -1,0 +1,29 @@
+MODULE 5 - LAB 2: LIBRARY MANAGEMENT SYSTEM
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 2
+
+===== LIBRARY BOOKS =====
+ID: B101 | Title: Python Basics | Author: John Smith | Status: Available
+ID: B102 | Title: Learning OOP | Author: Mary Jones | Status: Available
+
+Enter your choice: 3
+Enter book ID to borrow: B101
+You have borrowed "Python Basics".
+
+Enter your choice: 2
+===== LIBRARY BOOKS =====
+ID: B101 | Title: Python Basics | Author: John Smith | Status: Borrowed
+ID: B102 | Title: Learning OOP | Author: Mary Jones | Status: Available
+
+Enter your choice: 4
+Enter book ID to return: B101
+You have returned "Python Basics".
+
+Enter your choice: 5
+Exiting Library Management System.
