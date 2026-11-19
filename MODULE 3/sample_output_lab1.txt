@@ -1,0 +1,29 @@
+MODULE 3 - LAB 1: CONTACT BOOK USING LISTS AND DICTIONARIES
+
+===== CONTACT BOOK MENU =====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Exit
+Enter your choice (1-4): 1
+Enter name: Madhanraj
+Enter phone number: 9876543210
+Enter email: madhanraj@example.com
+Contact added successfully.
+
+===== CONTACT BOOK MENU =====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Exit
+Enter your choice (1-4): 2
+
+===== CONTACT BOOK =====
+1. Madhanraj
+   Phone: 9876543210
+   Email: madhanraj@example.com
+
+Enter your choice (1-4): 4
+Exiting Contact Book.
+
+Note: The phone number and email above are illustrative sample data, not personal contact details.
