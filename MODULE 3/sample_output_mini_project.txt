@@ -1,0 +1,37 @@
+MODULE 3 - MINI PROJECT: ATTENDANCE TRACKER
+
+===== ATTENDANCE TRACKER =====
+1. Add Student
+2. Mark Attendance
+3. View Attendance Report
+4. Exit
+Enter your choice (1-4): 1
+Enter roll number: 101
+Enter student name: Madhanraj
+Student added successfully.
+
+Enter your choice (1-4): 2
+
+Enter P for Present and A for Absent.
+101 - Madhanraj: P
+Attendance marked successfully.
+
+Enter your choice (1-4): 2
+
+Enter P for Present and A for Absent.
+101 - Madhanraj: P
+Attendance marked successfully.
+
+Enter your choice (1-4): 2
+
+Enter P for Present and A for Absent.
+101 - Madhanraj: A
+Attendance marked successfully.
+
+Enter your choice (1-4): 3
+
+===== ATTENDANCE REPORT =====
+101 - Madhanraj | Present: 2/3 | Attendance: 66.67%
+
+Enter your choice (1-4): 4
+Exiting Attendance Tracker.
