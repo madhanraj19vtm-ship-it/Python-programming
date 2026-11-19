@@ -1,0 +1,17 @@
+MODULE 3 - LAB 2: STUDENT GRADING SYSTEM
+
+Enter student name: Madhanraj
+Enter number of subjects: 5
+Enter marks for subject 1: 92
+Enter marks for subject 2: 88
+Enter marks for subject 3: 85
+Enter marks for subject 4: 95
+Enter marks for subject 5: 90
+
+===== STUDENT RESULT =====
+Student Name: Madhanraj
+Marks: [92.0, 88.0, 85.0, 95.0, 90.0]
+Total Marks: 450.0
+Average: 90.00
+Grade: A+
+Result: PASS
