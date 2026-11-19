@@ -1,0 +1,14 @@
+MODULE 5 - LAB 3: DICE SIMULATOR
+
+===== DICE SIMULATOR =====
+How many dice do you want to roll? 3
+
+Dice Results:
+Dice 1: 4
+Dice 2: 2
+Dice 3: 6
+Total: 12
+Highest value: 6
+Lowest value: 2
+
+Note: Dice results are random, so your output may be different each time.
