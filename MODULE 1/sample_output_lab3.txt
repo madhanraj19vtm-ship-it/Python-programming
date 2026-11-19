@@ -1,0 +1,16 @@
+MODULE 1 - LAB 3: SIMPLE CALCULATOR AND AREA CALCULATIONS
+
+--- Simple Calculator ---
+Enter first number: 10
+Enter second number: 5
+Enter operator (+, -, *, /): *
+Result: 50.0
+
+--- Area Calculator ---
+1. Circle
+2. Rectangle
+3. Triangle
+Choose a shape (1/2/3): 2
+Enter length: 10
+Enter width: 5
+Area of rectangle: 50.0
