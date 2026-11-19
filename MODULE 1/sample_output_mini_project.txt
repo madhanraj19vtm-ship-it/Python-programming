@@ -1,0 +1,12 @@
+MODULE 1 - MINI PROJECT: UNIT CONVERTER
+
+===== UNIT CONVERTER =====
+1. Kilometers to Miles
+2. Miles to Kilometers
+3. Kilograms to Pounds
+4. Pounds to Kilograms
+5. Celsius to Fahrenheit
+6. Fahrenheit to Celsius
+Enter your choice (1-6): 1
+Enter the value to convert: 10
+10.0 km = 6.21 miles
