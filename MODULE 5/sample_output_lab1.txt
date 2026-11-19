@@ -1,0 +1,27 @@
+MODULE 5 - LAB 1: BANK ACCOUNT SYSTEM USING OOP
+
+===== BANK ACCOUNT SYSTEM =====
+Enter account holder name: Arun
+Enter account number: 1001
+Enter opening balance: 5000
+
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 1
+Enter deposit amount: Rs. 1500
+Rs. 1500.00 deposited successfully.
+
+Enter your choice: 2
+Enter withdrawal amount: Rs. 1000
+Rs. 1000.00 withdrawn successfully.
+
+Enter your choice: 3
+===== ACCOUNT DETAILS =====
+Account Holder: Arun
+Account Number: 1001
+Available Balance: Rs. 5500.00
+
+Enter your choice: 4
+Thank you for using the Bank Account System.
