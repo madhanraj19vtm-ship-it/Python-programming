@@ -1,0 +1,16 @@
+MODULE 5 - LAB 4: RETAIL SALES DASHBOARD USING CSV AND MATPLOTLIB
+
+===== RETAIL SALES SUMMARY =====
+Number of records: 10
+Total sales: Rs. 315,500.00
+
+Product-wise Sales:
+Headphones: Rs. 15,500.00
+Laptop: Rs. 225,000.00
+Mobile: Rs. 75,000.00
+
+A Matplotlib dashboard window is then displayed with:
+1. Line graph - Sales Trend by Date
+2. Bar chart - Product-wise Total Sales
+
+Note: The chart window is graphical and does not appear as terminal text.
