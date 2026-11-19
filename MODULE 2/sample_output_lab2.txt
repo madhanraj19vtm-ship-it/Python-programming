@@ -1,0 +1,9 @@
+MODULE 2 - LAB 2: PRIME NUMBER AND FACTORIAL
+
+===== PRIME NUMBER CHECK =====
+Enter a positive integer: 17
+17 is a prime number.
+
+===== FACTORIAL =====
+Enter a non-negative integer: 5
+Factorial of 5 = 120
